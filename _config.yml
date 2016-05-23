@@ -1,13 +1,28 @@
+name: Anthony Vescio
+favicon: null
 layout_spectrum: 0.2763807
 typography_spectrum: 0.1584318
+title: BLah Blah
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4419979
-  lightness: 0.1723953
-  brandStrength: 0.4752954
   brandColors:
     - '#0E0E0E'
     - '#414141'
     - '#B4B4B4'
     - '#656565'
+  brandStrength: 0.4752954
+  lightness: 0.1723953
+  saturation: 0.4419979
   rhythmicContrast: 0.9897959
-name: Anthony Vescio
+purpose: []
